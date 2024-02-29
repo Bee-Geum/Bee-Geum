@@ -1,5 +1,8 @@
-### Hi there 👋
+## GEUM BEE
 
+## EDUCATION
+> Pusan Natioanl University
+> Undergraduate Student(Senior) in Coumputer Science & Engineering
 <!--
 **Bee-Geum/Bee-Geum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
