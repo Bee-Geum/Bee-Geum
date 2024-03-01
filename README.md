@@ -3,7 +3,7 @@
 <h2>EDUCATION</h2>
 
 **Pusan Natioanl University** </br>
-_Undergraduate Student(Senior) in Coumputer Science & Engineering_
+_Undergraduate Student (Senior) in Coumputer Science & Engineering_
 </br>
 </br>
 **Seoul National University** </br>
