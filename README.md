@@ -31,3 +31,10 @@ _Research Intern_
 - Undergraduate Research Intern of Professor "Hyun-Woo Park"
 - Participate in Ministry of Oceans and Fisheries project
 - Parcitipate in Korea Research Institute of Ships & Ocean engineering project
+  
+<h2>RESEARCH INTERESTS</h2>
+
+- Graph Neural Networks
+- Graph Algorithms
+- Time Series Analysis
+- Deep Learning
