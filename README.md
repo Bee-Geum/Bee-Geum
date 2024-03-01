@@ -35,5 +35,6 @@ _Research Intern_
 
 - Graph Neural Networks
 - Graph Algorithms
+- Bandit Algorithms
 - Time Series Analysis
 - Deep Learning
