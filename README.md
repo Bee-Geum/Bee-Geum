@@ -1,5 +1,4 @@
 <h1><div align="center">GEUM BEE</div></h1>
-</br>
 
 <h2>EDUCATION</h2>
 
