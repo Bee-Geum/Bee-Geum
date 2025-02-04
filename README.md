@@ -18,7 +18,6 @@ _Seoul National University_ </br>
 - Data Science research based on Path Finding and Time Series Analysis
 </br>
 
-
 **Algorithm & Data Engineering Lab** </br>
 _Pusan National University_ </br>
 - Undergraduate Researcher under Prof. Hwan-Gue Cho
@@ -40,6 +39,6 @@ _Pusan National University_ </br>
 
 
 <h2>RESEARCH INTERESTS</h2>
-- Graph Algorithms
-- Graph Theory
-- Deep Learning
+- Graph Algorithms </br>
+- Graph Theory </br>
+- Deep Learning </br>
