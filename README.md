@@ -3,38 +3,43 @@
 <h2>EDUCATION</h2>
 
 **Pusan Natioanl University** </br>
-_Undergraduate Student (Senior) in Coumputer Science & Engineering_
+_B.S. in Coumputer Science & Engineering_
 </br>
 </br>
-**Seoul National University** </br>
-_Research Intern in Gradutate School of Data Science_
-</br>
-
-<h2>EXPERIENCE</h2>
-
-**Algorithm & Data Engineering Lab** </br>
-_Undergraduate Research Student_ </br>
-- Undergraduate Research Student of Professor "Hwan-Gue Cho"
-- New Algorithm for Problem Solving
-- Analyzing Big Graph Models
+**Pusan National University** </br>
+_M.S course in Artificial Intelligence_
 </br>
 
-**Teaching Assistant** </br>
-_Undergraduate Student (Junior)_
-- Teaching Assistant of Professor "Keun-Hyuk Yeom"
-- C Programming Language
-</br>
+<h2>INTERNSHIPS</h2>
 
 **Visualization & Business Analytics Lab** </br>
-_Research Intern_
-- Undergraduate Research Intern of Professor "Hyun-Woo Park"
-- Participate in Ministry of Oceans and Fisheries project
-- Parcitipate in Korea Research Institute of Ships & Ocean engineering project
-  
-<h2>RESEARCH INTERESTS</h2>
+_Seoul National University_ </br>
+- Undergraduate Researcher under Prof. Hyun-Woo Park
+- Data Science research based on Path Finding and Time Series Analysis
+</br>
 
-- Graph Neural Networks
+
+**Algorithm & Data Engineering Lab** </br>
+_Pusan National University_ </br>
+- Undergraduate Researcher under Prof. Hwan-Gue Cho
+- New Algorithm for Problem Solving
+- Data Science research based on Graph Models
+</br>
+
+<h2>Teaching Assistant</h2>
+
+**C Programming Language** </br>
+_Pusan National University_
+- Teaching Assistant of Prof. Keun-Hyuk Yeom
+</br>
+
+**Computer Algorithm** </br>
+_Pusan National University_ </br>
+- Teaching Assistant of Prof. Hwan-Gue Cho
+</br>
+
+
+<h2>RESEARCH INTERESTS</h2>
 - Graph Algorithms
-- Bandit Algorithms
-- Time Series Analysis
+- Graph Theory
 - Deep Learning
